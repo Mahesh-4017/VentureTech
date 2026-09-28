@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "venture-tech",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +9,31 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@types/gsap": "^1.20.2",
+    "bcryptjs": "^3.0.3",
+    "clsx": "^2.1.1",
+    "framer-motion": "^13.4.3",
+    "gsap": "^3.15.0",
+    "jsonwebtoken": "^9.0.3",
+    "lottie-react": "^3.1.2",
+    "lucide-react": "^1.48.0",
+    "mongoose": "^9.10.2",
     "next": "16.3.6",
+    "nodemailer": "^10.0.10",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-countup": "^6.5.3",
+    "react-dom": "19.2.8",
+    "react-icons": "^5.7.0",
+    "react-intersection-observer": "^11.0.1",
+    "swiper": "^14.2.0",
+    "tailwind-merge": "^3.7.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^20",
+    "@types/nodemailer": "^8.0.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
